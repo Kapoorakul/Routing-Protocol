@@ -1,0 +1,10 @@
+Protocol version Number:2
+Self RouterID:R1
+Update Interval:20
+Alive Interval:10
+Number of Nodes in Topology:3
+Number of Neighbors:2
+Neighbor RouterID:R2
+Neighbor RouterID:R3
+LinkID:X
+LinkID:Y
